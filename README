@@ -1,0 +1,3 @@
+CoffeeScript
+
+  Build Command: coffee -o lib/ -cw src/

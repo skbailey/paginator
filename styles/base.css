@@ -1,0 +1,15 @@
+/* BASIC STYLES */
+
+body {
+	font: 67.5% Helvetica, Arial, sans-serif;
+}
+
+#container {
+	width: 980px;
+	margin: 20px auto 0;
+}
+
+h1 {
+	font-size:2em;
+	text-align: center;
+}
